@@ -1,1 +1,3 @@
 # PRAGyan
+
+PRAGyan is a sophisticated model designed to perform causal analysis on text-based social media data, integrating Knowledge Graphs (KGs) with Large Language Models (LLMs) using Retrieval-Augmented Generation (RAG). This model leverages advanced techniques such as fine-tuned LLaMa3 for relation extraction, Node2Vec for graph embedding, and Sentence-BERT for context retrieval, providing deeper and more actionable insights. PRAGyan utilizes various Python libraries, including NLTK, transformers, LangChain, Neo4j, torch, and Scikit-learn, to ensure comprehensive text preprocessing, efficient LLM operations, and robust performance evaluation, achieving a 10% improvement in accuracy over baseline models.
